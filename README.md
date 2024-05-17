@@ -3,10 +3,10 @@
 #### Technical Skills: Linux (Ubuntu and CentOS), Blender, Photoshop, C++, Python
 
 ## Education
-- Elementary | Aquinas School (2009 - 2015)								       		
-- Junior High	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
-- Senior High | FEU High School (2019 - 2021)
-- College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
+Elementary | Aquinas School (2009 - 2015)<br>						       		
+Junior High	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)<br>
+Senior High | FEU High School (2019 - 2021)<br>
+College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
 ## Contact Information
 Email: emmancuyugan.12@gmail.com<br>
