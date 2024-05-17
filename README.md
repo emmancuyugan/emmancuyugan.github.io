@@ -9,8 +9,8 @@
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
 ## Contact Information
-- Email: emmancuyugan.12@gmail.com
-- Phone Number: 09683251772
+Email: emmancuyugan.12@gmail.com
+Phone Number: 09683251772
 
 ## Projects
 ### Managing Enterprise Servers (CPE 232)
