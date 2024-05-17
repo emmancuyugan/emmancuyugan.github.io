@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Elementary | The University of Texas at Dallas (2009 - 2015)								       		
-- Junior High School	| The University of Texas at Dallas (2015 - 2019)	 			        		
+- Elementary | Aquinas School (2009 - 2015)								       		
+- Junior High School	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
 - Senior High School | Far Eastern University High School (2019 - 2021)
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
