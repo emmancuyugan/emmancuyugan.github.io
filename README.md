@@ -12,7 +12,7 @@
 Email: emmancuyugan.12@gmail.com<br>
 Phone Number: 09683251772
 
-## Hobbies
+## Current Hobby
 ### Video Game Modding
 One of my hobbies is video game modding. Video game modding is the process of alteration by players or fans of one or more aspects of a video game, such as how it looks or behaves, and is a sub-discipline of general modding. I mostly focused on 3D Model texture editing and 3d Model importing in a video game.
 
