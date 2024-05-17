@@ -4,29 +4,29 @@
 
 ## Education
 - Elementary | Aquinas School (2009 - 2015)								       		
-- Junior High School	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
-- Senior High School | Far Eastern University High School (2019 - 2021)
+- JHS	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
+- SHS | Far Eastern University High School (2019 - 2021)
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
 ## Projects
 ### Managing Enterprise Servers (CPE 232)
-[Hands-on Activity 1.1 - Creating Virtual Machines](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 2.1 - SSH Key-Based Authentication and GIT Setup](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 3.1 - Install SSH server on CentOS or RHEL 8](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 4.1 - Ansible Basics](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 5.1 - Consolidating Playbooks](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Prelim Exam](https://github.com/emmancuyugan/Cuyugan_PrelimExam)
-[Hands-on Activity 7.1 - Managing Files and Creating Roles in Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 8.1 - Install, Configure, and Manage Enterprise Availability Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 9.1 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
-[Midterm Skills Exam](https://github.com/emmancuyugan/CPE_MIDEXAM_CUYUGAN)
-[Hands-on Activity 11.1 - Containerization](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 12.1 - Build a Sample Web App in a Docker Container](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 13.1 - OpenStack Prerequisite Installation](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 14.1 - OpenStack Installation (Keystone, Glance, Nova)](https://www.mdpi.com/1424-8220/22/8/3048)
-[Hands-on Activity 15.1 - OpenStack Installation (Neutron, Horizon, Cinder)](https://www.mdpi.com/1424-8220/22/8/3048)
+1. [Hands-on Activity 1.1 - Creating Virtual Machines](https://www.mdpi.com/1424-8220/22/8/3048)
+2. [Hands-on Activity 2.1 - SSH Key-Based Authentication and GIT Setup](https://www.mdpi.com/1424-8220/22/8/3048)
+3. [Hands-on Activity 3.1 - Install SSH server on CentOS or RHEL 8](https://www.mdpi.com/1424-8220/22/8/3048)
+4. [Hands-on Activity 4.1 - Ansible Basics](https://www.mdpi.com/1424-8220/22/8/3048)
+5. [Hands-on Activity 5.1 - Consolidating Playbooks](https://www.mdpi.com/1424-8220/22/8/3048)
+6. [Hands-on Prelim Exam](https://github.com/emmancuyugan/Cuyugan_PrelimExam)
+7. [Hands-on Activity 7.1 - Managing Files and Creating Roles in Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+8. [Hands-on Activity 8.1 - Install, Configure, and Manage Enterprise Availability Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+9. [Hands-on Activity 9.1 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+10. [Midterm Skills Exam](https://github.com/emmancuyugan/CPE_MIDEXAM_CUYUGAN)
+11. [Hands-on Activity 11.1 - Containerization](https://www.mdpi.com/1424-8220/22/8/3048)
+12. [Hands-on Activity 12.1 - Build a Sample Web App in a Docker Container](https://www.mdpi.com/1424-8220/22/8/3048)
+13. [Hands-on Activity 13.1 - OpenStack Prerequisite Installation](https://www.mdpi.com/1424-8220/22/8/3048)
+14. [Hands-on Activity 14.1 - OpenStack Installation (Keystone, Glance, Nova)](https://www.mdpi.com/1424-8220/22/8/3048)
+15. [Hands-on Activity 15.1 - OpenStack Installation (Neutron, Horizon, Cinder)](https://www.mdpi.com/1424-8220/22/8/3048)
 
-All activities submitted in Managing Enterprise Servers (CPE 232). In most of the activities, I used **Ubuntu**, while in other submissions, there are usage of **CentOS** and **DEVOPS**.
+All activities submitted in Managing Enterprise Servers (CPE 232). In most of the activities, I used **Ubuntu**, while in other submissions, there are usage of **CentOS** and **DevOps**.
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
