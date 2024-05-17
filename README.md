@@ -12,7 +12,20 @@
 Email: emmancuyugan.12@gmail.com<br>
 Phone Number: 09683251772
 
-## Projects
+## Hobbies
+### Video Game Modding
+One of my hobbies is video game modding. Video game modding is the process of alteration by players or fans of one or more aspects of a video game, such as how it looks or behaves, and is a sub-discipline of general modding. I mostly focused on 3D Model texture editing and 3d Model importing in a video game.
+
+#### Screenshots
+This is some of my work wherein I made mods for video games like Marvel's Spider-Man Remastered (released in August 12, 2022) and Batman Arkham City (released in October 18, 2011).
+
+!(/assets/img/spidey.png)<br>
+!(/assets/img/bats1.png) !(/assets/img/bats2.png)<br>
+!(/assets/img/bats3.png)
+
+[You can find them here!](https://next.nexusmods.com/profile/Deoxuva/mods)
+
+## Academics
 ### Managing Enterprise Servers (CPE 232)
 #### Submitted Acitivities
 1. [Hands-on Activity 1.1 - Creating Virtual Machines](https://github.com/emmancuyugan/HOA1.1)
