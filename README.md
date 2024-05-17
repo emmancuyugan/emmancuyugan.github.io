@@ -19,9 +19,9 @@ One of my hobbies is video game modding. Video game modding is the process of al
 #### Screenshots
 This is some of my work wherein I made mods for video games like Marvel's Spider-Man Remastered (released in August 12, 2022) and Batman Arkham City (released in October 18, 2011).
 
-!(/assets/img/spidey.png)<br>
-!(/assets/img/bats1.png) !(/assets/img/bats2.png)<br>
-!(/assets/img/bats3.png)
+![Spidey](/assets/img/spidey.png)<br>
+![Batman1](/assets/img/bats1.png) ![Batman2](/assets/img/bats2.png)<br>
+![Batman3](/assets/img/bats3.png)
 
 [You can find them here!](https://next.nexusmods.com/profile/Deoxuva/mods)
 
