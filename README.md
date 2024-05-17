@@ -8,30 +8,25 @@
 - Senior High School | Far Eastern University High School (2019 - 2021)
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
-## Projects in Managing Enterprise 
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Projects
+### Managing Enterprise Servers (CPE 232)
+[Hands-on Activity 1.1 - Creating Virtual Machines](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 2.1 - SSH Key-Based Authentication and GIT Setup](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 3.1 - Install SSH server on CentOS or RHEL 8](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 4.1 - Ansible Basics](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 5.1 - Consolidating Playbooks](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Prelim Exam](https://github.com/emmancuyugan/Cuyugan_PrelimExam)
+[Hands-on Activity 7.1 - Managing Files and Creating Roles in Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 8.1 - Install, Configure, and Manage Enterprise Availability Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 9.1 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+[Midterm Skills Exam](https://github.com/emmancuyugan/CPE_MIDEXAM_CUYUGAN)
+[Hands-on Activity 11.1 - Containerization](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 12.1 - Build a Sample Web App in a Docker Container](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 13.1 - OpenStack Prerequisite Installation](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 14.1 - OpenStack Installation (Keystone, Glance, Nova)](https://www.mdpi.com/1424-8220/22/8/3048)
+[Hands-on Activity 15.1 - OpenStack Installation (Neutron, Horizon, Cinder)](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+All activities submitted in Managing Enterprise Servers (CPE 232). In most of the activities, I used **Ubuntu**, while in other submissions, there are usage of **CentOS** and **DEVOPS**.
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
