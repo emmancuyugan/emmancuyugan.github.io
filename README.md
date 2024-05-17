@@ -1,4 +1,4 @@
-# Welcome!
+# Aspiring Computer Engineer
 
 #### Technical Skills: Linux (Ubuntu and CentOS), Blender, Photoshop, C++, Python
 
@@ -7,6 +7,10 @@
 - Junior High	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
 - Senior High | FEU High School (2019 - 2021)
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
+
+## Contact Information
+- Email: emmancuyugan.12@gmail.com
+- Phone Number: 09683251772
 
 ## Projects
 ### Managing Enterprise Servers (CPE 232)
@@ -36,3 +40,5 @@ All activities submitted in Managing Enterprise Servers (CPE 232). In most of th
 
 ## Reflection in Managing Enterprise Servers (CPE 232)
 The course has been one of the courses where I can say that I really learned many things. Not some things, but many things. This course will, not only be important to my Systems Adminstration 3 course, but to my future as a whole. In a more smaller scale, I think that all my learnings in this course will also help me personally as a student or as a person. There have been many downsides and hardships, but I managed to learn them in the end and I think that's what matters.
+
+# Thank you!
