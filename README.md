@@ -4,8 +4,8 @@
 
 ## Education
 - Elementary | Aquinas School (2009 - 2015)								       		
-- JHS	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
-- SHS | Far Eastern University High School (2019 - 2021)
+- Junior High	| Immaculate Heart of Mary College, Quezon City (2015 - 2019)	 			        		
+- Senior High | FEU High School (2019 - 2021)
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
 ## Projects
@@ -17,12 +17,12 @@
 5. [Hands-On Activity 6.1 - Targeting Specific Nodes](https://github.com/emmancuyugan/Activity6)
 6. [Hands-on Prelim Exam](https://github.com/emmancuyugan/Cuyugan_PrelimExam)
 7. [Hands-on Activity 7.1 - Managing Files and Creating Roles in Ansible](https://github.com/emmancuyugan/Cuyugan_HOA7.1)
-8. [Hands-on Activity 9.1 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://www.mdpi.com/1424-8220/22/8/3048)
+8. [Hands-on Activity 9.1 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://github.com/emmancuyugan/HOA9.1)
 9. [Midterm Skills Exam](https://github.com/emmancuyugan/CPE_MIDEXAM_CUYUGAN)
 10. [Hands-on Activity 11.1 - Containerization](https://github.com/emmancuyugan/Cuyugan_Activity11)
-11. [Hands-on Activity 12.1 - Build a Sample Web App in a Docker Container](https://www.mdpi.com/1424-8220/22/8/3048)
-12. [Hands-on Activity 13.1 - OpenStack Prerequisite Installation](https://www.mdpi.com/1424-8220/22/8/3048)
-13. [Hands-on Activity 14.1 - OpenStack Installation (Keystone, Glance, Nova)](https://www.mdpi.com/1424-8220/22/8/3048)
+11. [Hands-on Activity 12.1 - Build a Sample Web App in a Docker Container](https://github.com/emmancuyugan/HOA12.1)
+12. [Hands-on Activity 13.1 - OpenStack Prerequisite Installation](https://github.com/emmancuyugan/HOA13.1)
+13. [Hands-on Activity 14.1 - OpenStack Installation (Keystone, Glance, Nova)](https://github.com/emmancuyugan/HOA14.1)
 14. [Hands-on Activity 15.1 - OpenStack Installation (Neutron, Horizon, Cinder)](https://github.com/emmancuyugan/Group2_HOA15)
 15. [Final Project](https://github.com/emmancuyugan/emmancuyugan.github.io)
 
