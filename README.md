@@ -1,4 +1,4 @@
-# Aspiring Computer Engineer
+# Welcome!
 
 #### Technical Skills: Linux (Ubuntu and CentOS), Blender, Photoshop, C++, Python
 
@@ -14,6 +14,7 @@
 
 ## Projects
 ### Managing Enterprise Servers (CPE 232)
+#### Submitted Acitivities
 1. [Hands-on Activity 1.1 - Creating Virtual Machines](https://github.com/emmancuyugan/HOA1.1)
 2. [Hands-on Activity 2.1 - SSH Key-Based Authentication and GIT Setup](https://github.com/emmancuyugan/CPE232_CuyuganEmmanuel)
 3. [Hands-on Activity 3.1 - Install SSH server on CentOS or RHEL 8](https://github.com/emmancuyugan/HOA3.1)
@@ -32,13 +33,12 @@
 
 All activities submitted in Managing Enterprise Servers (CPE 232). In most of the activities, I used **Ubuntu**, while in other submissions, there are usage of **CentOS** and **DevOps**.
 
-## Learnings in Managing Enterprise Servers (CPE 232)
+#### Learnings
 - I have learned how to use GitHub, as GitHub, before the course, has only been a site where I can find and download packages, software, and many more. I didn't know how GitHub fully works.
 - I learned how to use SSH. On how I can use it to connect systems and the like. For example, we can connect Ubuntu to CentOS systems. Ubuntu to another Ubuntu system. One thing I did is using my main Ubuntu node, and using SSH in Windows to access my main Ubuntu node.
 - I also learned how to use GitHub as a platform in cloning it to Linux OS. With this, submission of activities through Git Commit has been very convenient.
 - I learned how to use Ansible. With this I can create tasks, roles, and more. With this, I can also create tasks wherein it can be used and be ran by one administrator node to several or many more other connected end computers. It worked for Ubuntu to CentOS, and vice versa.
-
-## Reflection in Managing Enterprise Servers (CPE 232)
+#### Reflection
 The course has been one of the courses where I can say that I really learned many things. Not some things, but many things. This course will, not only be important to my Systems Adminstration 3 course, but to my future as a whole. In a more smaller scale, I think that all my learnings in this course will also help me personally as a student or as a person. There have been many downsides and hardships, but I managed to learn them in the end and I think that's what matters.
 
 # Thank you!
