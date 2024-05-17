@@ -9,8 +9,7 @@
 - College | Technological Institute of the Philippines, Quezon City (2021 - ongoing)
 
 ## Contact Information
-Email: emmancuyugan.12@gmail.com
-
+Email: emmancuyugan.12@gmail.com<br>
 Phone Number: 09683251772
 
 ## Projects
